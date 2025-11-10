@@ -1,5 +1,5 @@
 # 🏪 Stock Management API
-Basit bir stok yönetim sistemi: FastAPI + SQLite kullanılarak geliştirilmiş, JWT ile güvenli kullanıcı yönetimi, ürün ve stok işlemleri ile AI tahmin desteği sunar.
+Stock Management API, FastAPI + SQLite ile geliştirilmiş basit bir stok yönetim sistemidir. Proje, kullanıcı kayıt & login (JWT), ürün ekleme/listeleme, stok artırma/azaltma ve basit AI stok tahmini özelliklerini içerir. Swagger dokümantasyonu ile tüm endpoint’ler kolayca test edilebilir.
 
 ## 🚀 Öne Çıkan Özellikler
 - Kullanıcı kayıt & login (JWT)
